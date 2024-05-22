@@ -1,7 +1,7 @@
 #### 51cto订阅专栏《实战：20天精通Linux shell脚本》
 专栏地址： [http://blog.51cto.com/cloumn/detail/22](http://blog.51cto.com/cloumn/detail/22)
 
-案例1: [备份MySQL数据库](https://github.com/aminglinux/shell20/blob/master/codes/1.md)
+案例1: [备份MySQL数据库](https://github.com/zhaoxixc/shell20/blob/master/codes/1.md)
 </br>
 案例2: [监控Nginx服务器502](https://github.com/aminglinux/shell20/blob/master/codes/2.md)
 </br>
@@ -39,5 +39,5 @@
 </br>
 案例19: [分析Tomcat日志](https://github.com/aminglinux/shell20/blob/master/codes/19.md)
 </br>
-案例20: [自动化运维-代码上线](https://github.com/aminglinux/shell20/blob/master/codes/20.md)
+案例20: [自动化运维-代码上线](https://github.com/zhaoxixc/shell20/blob/master/codes/20.md)
 
